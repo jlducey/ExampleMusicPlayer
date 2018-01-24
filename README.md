@@ -1,3 +1,5 @@
+If HTML5 QR read/write code combined with notifications isn't adequate, 2nd choice is to build Android/IOS apps to do ticketing. This was part of the Android app class.
+
 Universal Android Music Player Sample
 =====================================
 
