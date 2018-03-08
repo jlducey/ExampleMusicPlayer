@@ -1,4 +1,4 @@
-If HTML5 QR read/write code combined with notifications isn't adequate, 2nd choice is to build Android/IOS apps to do ticketing. This was part of the Android app class.
+>If HTML5 QR read/write code combined with notifications isn't adequate, our distant 2nd choice is to build Android/IOS apps to do ticketing. This was part of the Android app class I took. After testing, we are pretty sure HTML5 with Bootstrap can cover everything, the fingerprinting2 library seems to work with PC's as well as smart connected devices, so doubting we end up doing dedicated Android or iPhone apps.
 
 Universal Android Music Player Sample
 =====================================
